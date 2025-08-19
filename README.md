@@ -26,7 +26,21 @@ This is like a **magic button** that can close the Cursor app (a code editor) au
 5. Open the file and write anything you want inside (like "Hello!" or "My important file")
 6. Save the file
 
-**Why do you need this?** The magic program looks for this file to work properly. Without it, the magic won't start! 🎯
+**🏷️ EXTRA IMPORTANT - Don't Forget This!**
+When you're working with Cursor and want to use this magic tool, **always remember to tag the `@important.txt` file in your prompts!** 
+
+**Example:** When typing in Cursor, write something like:
+```
+@important.txt Help me with my code
+```
+
+**Here's what it looks like in Cursor:**
+
+![Example of tagging @important.txt in Cursor](example.png)
+
+**Why tag it?** This tells Cursor to look at your important.txt file, which helps the magic system work better! 🎯
+
+**Why do you need this file?** The magic program looks for this file to work properly. Without it, the magic won't start! 🎯
 
 ### Step 2: Open Your Terminal 💻
 
@@ -111,6 +125,7 @@ While the magic is running, you can press these keys:
 - ❗ **Check if you made the `important.txt` file!** This is the most common problem
 - Make sure the file is named exactly `important.txt` (not Important.txt or important.TXT)
 - The file should be in the same folder as all the other magic files
+- 🏷️ **Don't forget to tag `@important.txt` in your Cursor prompts!** This is super important!
 
 **Problem: "Nothing happens when I change the file"**
 - Make sure you saved the file after changing it
