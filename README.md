@@ -1,6 +1,11 @@
-# How to Use the Cursor Stopper - Simple Guide 🚀
+# 🔥 CURSOR KILLER PRO 🔥
+## ⚡ The Ultimate AI-Powered Process Controller ⚡
 
-*A super easy guide for anyone to use this tool!*
+### 🎯 *Automatically Terminate Cursor Like a Boss!* 🎯
+---
+**🚀 UNLEASH THE POWER OF AUTOMATED CURSOR CONTROL 🚀**
+
+*The most epic tool for pro developers and unlimited AI users!*
 
 ## What Does This Do? 🤔
 
@@ -147,6 +152,19 @@ While the magic is running, you can press these keys:
 2. **Ask for help** if you see error messages
 3. **Don't change other files** - only change the `completed.json` file
 4. **It's okay to make mistakes** - you can always start over!
+
+## 💎 PERFECT FOR PRO USERS! 💎
+### 🔥 UNLIMITED AI POWER UNLEASHED! 🔥
+
+**⚡ This tool is a GAME-CHANGER for unlimited AI requests! ⚡** 
+
+- 🤖 **Unlimited Claude/AI Models**: If you're a pro user with unlimited requests, you can work with AI for hours
+- 💡 **Smart Workflow**: Tag your `@important.txt` file in every prompt to keep the AI aware of your project
+- ⚡ **Auto-Close**: When you're done with a long AI session, just mark it complete and Cursor closes automatically
+- 🔄 **Continuous Work**: Perfect for extended coding sessions with AI assistance
+- 📊 **Efficient Management**: No need to manually close Cursor after long AI-powered coding sessions
+
+**Pro Tip**: This is perfect for users who make hundreds of AI requests per day and want automated cleanup! 🎯
 
 ## Fun Facts! 🌟
 
