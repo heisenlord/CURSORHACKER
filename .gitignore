@@ -1,31 +1,3 @@
 # Dependencies
 node_modules/
 package-lock.json
-
-# Logs
-*.log
-npm-debug.log*
-
-# Runtime data
-*.pid
-*.seed
-*.pid.lock
-
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Generated files
-completed.json
-completed.txt
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
